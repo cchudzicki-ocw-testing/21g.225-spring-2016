@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains the course topics, exercise and memo info, and
+  assignment due dates.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
